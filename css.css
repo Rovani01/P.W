@@ -1,0 +1,43 @@
+.topo{	
+	background-image: url("nome.god.jpg");
+	/*background-size: 1650px 180px;*/
+	background-size: 100%;
+	background-position: center; 
+	background-repeat: no-repeat;
+	color: white;
+	height: 250px;
+}
+#fundo1{
+	text-align: center;
+	background-color: black;
+	width: 100%
+
+}
+.name1{
+	float:left;
+	margin-left: 1000px;
+	margin-top:50px;
+}
+.nameprof{
+	font-family: 'Merriweather', serif;
+	margin-left: 120px;
+}
+.backmid{
+
+}
+/*#kratos{
+	width: 300px;
+	height:300px;
+	margin-top: -135px;
+	z-index*/: 1000;
+}
+.text1{
+	margin-left: 450px;
+
+}
+#fundo{
+	position: fixed;
+	height: 600px;
+	width: 1600px;
+}
+
