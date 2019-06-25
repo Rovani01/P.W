@@ -1,11 +1,11 @@
 .topo{	
-	background-image: url("nome.god.jpg");
+	background-color:black;
 	/*background-size: 1650px 180px;*/
-	background-size: 100%;
+	background-size: cover;
 	background-position: center; 
 	background-repeat: no-repeat;
 	color: white;
-	height: 250px;
+	height: 200px;
 }
 #fundo1{
 	text-align: center;
@@ -16,7 +16,7 @@
 .name1{
 	float:left;
 	margin-left: 1000px;
-	margin-top:50px;
+	margin-top:100px;
 }
 .nameprof{
 	font-family: 'Merriweather', serif;
@@ -25,12 +25,7 @@
 .backmid{
 
 }
-/*#kratos{
-	width: 300px;
-	height:300px;
-	margin-top: -135px;
-	z-index*/: 1000;
-}
+
 .text1{
 	margin-left: 450px;
 
@@ -40,4 +35,31 @@
 	height: 600px;
 	width: 1600px;
 }
+.mfoto{
+	margin-top: -7%;
+}
+.fundomeio{
 
+	background-image: url("backmid.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 530px;
+}
+.card1{
+	float:left;
+	margin-left: 15%;
+}
+.textPerfil{
+	font-family: 'Abril Fatface', cursive;
+	font-size: 20px;
+}
+.Texto{
+	margin-left: 15%;
+}
+.card2{
+	float: left;
+	margin-left: 15%;
+}
+.hobby{
+	margin-left: 16%;
+}
